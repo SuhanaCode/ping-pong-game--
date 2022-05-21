@@ -1,0 +1,37 @@
+.heading{
+  width: 100%;
+}
+
+.heading h3{
+  font-size: 23px;
+  float: left;
+}
+
+.heading button{
+  float: right;
+  font-size: 23px;
+}
+
+#start{
+  font-size: 22px;
+}
+
+.copy_right_footer{
+  background-color: rgb(150, 148, 148);
+  color: rgb(66, 66, 66);
+  position: fixed;
+  bottom: 0;
+  line-height: 3;
+  width: 100%;
+  text-align: center;
+}
+
+.modal-dialog{
+  width: 80%;
+}
+
+canvas {
+  background-position: center;
+  background-size: cover;
+  padding: 25px;
+}
